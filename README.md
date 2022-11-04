@@ -41,10 +41,12 @@ items.json should contain all the item definitions for the game, default_items.j
 - Open Crates
 - Lobby Codes
 - Profile Pictures
+- Adding custom colors
+- Adding Shinys
 
 
 
-#### Need help? Join [our Discord support server](https://discord.gg/RJSVxe9MP9)
+#### Need help or you can help? Join [our Discord support server](https://discord.gg/RJSVxe9MP9)
 
 
 
