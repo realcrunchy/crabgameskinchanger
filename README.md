@@ -25,7 +25,7 @@ items.json should contain all the item definitions for the game, default_items.j
 ## What's working ?
   - Create Lobby
   - Start Games using 1hAck.
-  - Inventory.
+  - Inventory
   - About
   - Options
   - Crafting
