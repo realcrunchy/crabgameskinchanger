@@ -14,7 +14,7 @@ If Windows asks you to replace steam_api64_net.dll you agree with "yes"
 
 - Change your Username in \Plugins\x86_64\steam_settings\force_account_name.txt
 - Add your own items in items.json
-- Edit item quantity
+- Edit item quantity in default_items.json
 
 The items.json syntax is simple, you SHOULD validate your .json file before trying to run your game or you won't have any item in your inventory. Just look for "online json validator" on your web brower to valide your file.
 You can use https://steamdb.info/app/1782210/items/ to list items and attributes they have and put them into your .json.
