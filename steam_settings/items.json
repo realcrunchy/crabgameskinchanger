@@ -1,0 +1,171 @@
+{
+   "216":{
+	  "name": "Shiny Golden Fedora"
+      "description":"[i]tips golden fedora[/i] mlady 😳",
+      "background_color":"222222",
+      "commodity":"false",
+      "date_created":"20211130T213035Z",
+      "display_type":"Hat",
+      "icon_url":"https://i.imgur.com/WtFoq5c.png",
+      "icon_url_large":"https://i.imgur.com/SJa1XRp.png",
+      "marketable":"true",
+      "name_color":"FFEB39",
+      "quantity":"0",
+      "tags/0":"rarity:original",
+      "tags/1":"type:hat",
+      "tags/2":"",
+      "tradeable":"true",
+      "type":"item"
+   },
+   "999":{
+	  "name": "Golden Crab Box"
+      "description":"A special box xoxo",
+      "background_color":"222222",
+      "commodity":"false",
+      "date_created":"20211130T213035Z",
+      "display_type":"Container",
+      "icon_url":"https://i.imgur.com/BBptTCM.png",
+      "icon_url_large":"https://i.imgur.com/uwvDCDi.png",
+      "marketable":"false",
+      "name_color":"FFEB39",
+      "quantity":"0",
+      "tags/0":"rarity:legendary",
+      "tags/1":"type:chest",
+      "tags/2":"",
+      "tradeable":"true",
+      "type":"item"
+   },
+   "218":{
+	  "name": "Black Fedora"
+      "description":"A colorful and pointy hat.",
+      "background_color":"222222",
+      "commodity":"false",
+      "date_created":"20211210T121557Z",
+      "display_type":"Hat",
+      "icon_url":"https://i.imgur.com/xcif2az.png",
+      "icon_url_large":"https://i.imgur.com/52QyWdS.png",
+      "marketable":"true",
+      "name_color":"FF3D39",
+      "quantity":"0",
+      "tags/0":"rarity:unique",
+      "tags/1":"type:hat",
+      "tags/2":"collection:holidays2021",
+      "tags/3":"",
+      "tradeable":"true",
+      "type":"item"
+   },
+      "801":{
+	  "name": "Dani Suit"
+      "description":"Exclusive Dani suit.",
+      "background_color":"222222",
+      "commodity":"false",
+      "date_created":"20211130T022310Z",
+      "display_type":"Top",
+      "icon_url":"https://i.imgur.com/3KW2BZE.png",
+      "icon_url_large":"https://i.imgur.com/qUm83Gb.png",
+      "marketable":"false",
+      "name_color":"FFEB39",
+      "quantity":"0",
+      "tags/0":"rarity:original",
+      "tags/1":"type:top",
+      "tags/2":"collection:holidays2021",
+      "tags/3":"",
+      "tradeable":"true",
+      "type":"item"
+   },
+      "12":{
+	  "name": "Protagonist"
+      "description":"A nice and roomy backpack. I can probably fit 5 medium sized lasagnas in there. [color=#C6E2FF]★This is an exclusive Crab Store Item. Can [i]not[/i] be found in crates.[/color]",
+      "background_color":"222222",
+      "commodity":"false",
+      "date_created":"20211210T121557Z",
+      "display_type":"Hair",
+      "icon_url":"https://i.imgur.com/MMmaG5m.png",
+      "icon_url_large":"https://i.imgur.com/MZoBBkf.png",
+      "marketable":"true",
+      "name_color":"FF62D1",
+      "quantity":"0",
+      "tags/0":"rarity:extraordinary",
+      "tags/1":"type:hair",
+      "tags/2":"collection:holidays2021",
+      "tags/3":"",
+      "tradeable":"true",
+      "type":"item"
+   },
+      "415":{
+	  "name": "Smile Mask"
+      "description":"Smile!",
+      "background_color":"222222",
+      "commodity":"false",
+      "date_created":"20211130T012906Z",
+      "display_type":"Accessory",
+      "icon_url":"https://i.imgur.com/xvUWJ5j.png",
+      "icon_url_large":"https://i.imgur.com/ubY5zZ5.png",
+      "marketable":"false",
+      "name_color":"FFEB39",
+      "quantity":"0",
+      "tags/0":"rarity:original",
+      "tags/1":"type:accessory",
+      "tags/2":"",
+      "tradeable":"false",
+      "type":"item"
+   },
+            "900":{
+	  "name": "Colorful Backpack"
+      "description":"A nice and roomy backpack. I can probably fit 5 medium sized lasagnas in there. [color=#C6E2FF]★This is an exclusive Crab Store Item. Can [i]not[/i] be found in crates.[/color]",
+      "background_color":"222222",
+      "commodity":"false",
+      "date_created":"20211213T154614Z",
+      "display_type":"Backpack",
+	  "featured_index": "1"
+      "icon_url":"https://i.imgur.com/MtZV2rI.png",
+      "icon_url_large":"https://i.imgur.com/IX79T4E.png",
+      "marketable":"false",
+      "name_color":"FF62D1",
+	  "price_category": "1;VLV200"
+	  "quantity":"0",
+	  "steamdb_store": "true"
+	  "store_tags/0:": "backpack"
+	  "store_tags/1": "featured"
+      "tags/0":"rarity:extraordinary",
+      "tags/1":"type:backpack",
+      "tags/2":"",
+      "tradeable":"true",
+      "type":"item"
+         "414":{
+	  "name": "The Dani Special"
+      "description":"The Dani Special - also known as a facemask and way-too-big-sunglasses. Why is it called the dani special? Good question.",
+      "background_color":"222222",
+      "commodity":"false",
+      "date_created":"20211130T012906Z",
+      "display_type":"Accessory",
+      "icon_url":"https://i.imgur.com/PNNzju4.png",
+      "icon_url_large":"https://i.imgur.com/OOQXJCv.png",
+      "marketable":"true",
+      "name_color":"FFEB39",
+      "quantity":"0",
+      "tags/0":"rarity:legendary",
+      "tags/1":"type:accessory",
+      "tags/2":"",
+      "tradeable":"true",
+      "type":"item"
+   },
+         "609":{
+	  "name": "Soaring Sneakers"
+      "description":"Take you sneakers to a new dimension.. Literally!",
+      "background_color":"222222",
+      "commodity":"false",
+      "date_created":"20211130T122948Z",
+      "display_type":"Shoes",
+      "icon_url":"https://i.imgur.com/VzMp3Db.png",
+      "icon_url_large":"https://i.imgur.com/HsSwZTq.png",
+      "marketable":"true",
+      "name_color":"FFEB39",
+      "quantity":"0",
+      "tags/0":"rarity:legendary",
+      "tags/1":"type:shoes",
+      "tags/2":"",
+      "tradeable":"true",
+      "type":"item"
+   }
+}
