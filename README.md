@@ -8,7 +8,8 @@ Crab Game Server Emulator for version 1.362 of the game!
 ## Setup
 Move these files into Crab Game_Data\Plugins\x86_64 and launch the game normally over Steam or the .exe
 If Windows asks you to replace steam_api64_net.dll you agree with "yes"
-
+Basically you just replace steam_api64_net.dll and add the steam_setting
+folder to the 86x_64 Folder.
 
 ## Config
 
