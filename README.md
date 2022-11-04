@@ -53,7 +53,7 @@ items.json should contain all the item definitions for the game, default_items.j
 
 👤 **Raphael** (main developer)
 
-* Github: [@darklunime](https://github.com/raphaelreal)
+* Github: [@raphaelreal](https://github.com/raphaelreal)
 * Discord: raphael#0999
 
 Special thanks to:
