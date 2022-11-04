@@ -5,11 +5,11 @@ Crab Game Server Emulator for version 1.362 of the game!
 
 ![ScreenShot](https://cdn.discordapp.com/attachments/1038007561431031818/1038067285446901800/Screenshot_120.png) 
 
-##Setup
+Setup
 Move these files into Crab Game\Plugins\x86_64 and launch the game normally over Steam or the .exe
 
 
-##Config
+Config
 
 - Change your Username in C:\Users\rapha\Desktop\Raphael\Raphaels Crab Game\Raphaels Crab Game_Data\Plugins\x86_64\steam_settings\force_account_name.txt
 - Add your own items in items.json
