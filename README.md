@@ -5,6 +5,17 @@ Crab Game Server Emulator for version 1.362 of the game!
 
 ![ScreenShot](https://cdn.discordapp.com/attachments/1038007561431031818/1038067285446901800/Screenshot_120.png) 
 
+##Config
+
+- Change your Username in C:\Users\rapha\Desktop\Raphael\Raphaels Crab Game\Raphaels Crab Game_Data\Plugins\x86_64\steam_settings\force_account_name.txt
+- Add your own items in items.json
+- Edit item quantity
+
+The items.json syntax is simple, you SHOULD validate your .json file before trying to run your game or you won't have any item in your inventory. Just look for "online json validator" on your web brower to valide your file.
+You can use https://steamdb.info/app/1782210/items/ to list items and attributes they have and put them into your .json.
+Keep in mind that some item are not valid to have in your inventory. For example, in Crab Game all items over item_id 50000 will make your game crash.
+items.json should contain all the item definitions for the game, default_items.json is the quantity of each item that you want a user to have initially in their inventory. By default the user will have the items that are on the screenshot above.
+
 
 ## What's working ?
   - Create Lobby
@@ -13,6 +24,7 @@ Crab Game Server Emulator for version 1.362 of the game!
   - About
   - Options
   - Crafting
+  - Custom Player Names
 
 ...and much more!
 
@@ -23,6 +35,7 @@ Crab Game Server Emulator for version 1.362 of the game!
 - Join other players games
 - Open Crates
 - Lobby Codes
+- Profile Pictures
 
 
 
