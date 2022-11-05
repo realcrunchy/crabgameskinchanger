@@ -79,3 +79,4 @@ Give a ⭐️ if this project helped you!
 ## V1.21
 05.11.2022 07:20
 - Added all hairs to `items.json` and `default_items.json` in default color
+- All informations in `items.json` and `default_items.json` are sorted in correct order from now on
