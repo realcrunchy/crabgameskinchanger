@@ -14,7 +14,7 @@ folder to the 86x_64 Folder.
 ## Config
 
 - ~~Change your Username in \Plugins\x86_64\steam_settings\force_account_name.txt~~
-- Change your Username ingame by pressing Shift + TAB | THIS ONLY WORKS IF YOU DONT RUN THE GAME FROM STEAM!
+- Change your Username ingame by pressing Shift + TAB | **THIS ONLY WORKS IF YOU DONT RUN THE GAME FROM STEAM!**
 - Add your own items in items.json
 - Edit item quantity in default_items.json
 
