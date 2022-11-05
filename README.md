@@ -75,3 +75,7 @@ Give a ⭐️ if this project helped you!
 - Added steam_appid.txt to steam_settings
 - Added Ingame Name Changer
 - Removed FORCE Text files because we dont need them anymore
+
+## V1.21
+05.11.2022 07:20
+- Added all hairs to `items.json` and `default_items.json` in default color
