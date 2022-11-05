@@ -74,3 +74,4 @@ Give a ⭐️ if this project helped you!
 05.11.2022 05:34:
 - Added steam_appid.txt to steam_settings
 - Added Ingame Name Changer
+- Removed FORCE Text files because we dont need them anymore
