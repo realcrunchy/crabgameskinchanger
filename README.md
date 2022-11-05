@@ -2,7 +2,7 @@
 
 Crab Game Server Emulator for version 1.362 of the game!
 
-
+![ScreenShot2](https://cdn.discordapp.com/attachments/1036859677151072339/1038337400356749322/Screenshot_126.png)
 ![ScreenShot](https://cdn.discordapp.com/attachments/1038007561431031818/1038067285446901800/Screenshot_120.png) 
 
 ## Setup
