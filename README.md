@@ -13,7 +13,8 @@ folder to the 86x_64 Folder.
 
 ## Config
 
-- Change your Username in \Plugins\x86_64\steam_settings\force_account_name.txt
+- ~~Change your Username in \Plugins\x86_64\steam_settings\force_account_name.txt~~
+- Change your Username ingame by pressing Shift + TAB
 - Add your own items in items.json
 - Edit item quantity in default_items.json
 
@@ -66,3 +67,10 @@ Special thanks to:
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+## Updates
+
+## V1.2
+05.11.2022 05:34:
+- Added steam_appid.txt to steam_settings
+- Added Ingame Name Changer
