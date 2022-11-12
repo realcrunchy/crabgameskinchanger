@@ -10,6 +10,7 @@ Move these files into Crab Game_Data\Plugins\x86_64 and launch the game normally
 If Windows asks you to replace steam_api64_net.dll you agree with "yes"
 Basically you just replace steam_api64_net.dll and add the steam_setting
 folder to the 86x_64 Folder.
+[!] By default in the custom broadcast text file are already the steam connections filled in but you need to activate them manually ingame. If you activate them you know you are breaking ToS of Steam rn. I have nothing to do with your illegal activaty [!]
 
 ## Config
 
