@@ -80,3 +80,7 @@ Give a ⭐️ if this project helped you!
 05.11.2022 07:20
 - Added all hairs to `items.json` and `default_items.json` in default color
 - All informations in `items.json` and `default_items.json` are sorted in correct order from now on
+
+## V1.22
+12.11.2022 13:39
+- Added custom_broadcast with Steam Servers so you can join real crab game lobby with cheated items
