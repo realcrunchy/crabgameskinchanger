@@ -49,7 +49,7 @@ Everything! It now connects to real Steam Servers with your cheated inventory ha
 👤 **Raphael** (main developer)
 
 * Github: [@raphaelreal](https://github.com/raphaelreal)
-* Discord: raphael#0999
+* Discord: Raphael#6789
 
 Special thanks to:
 - Goldberg
