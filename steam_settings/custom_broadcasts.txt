@@ -67,3 +67,27 @@ steampowered.com.8686c.com
 steamstatic.com
 steamstatic.com.8686c.com
 steamusercontent.com
+playartifact.com
+s.team
+steam-api.com
+steam-chat.com
+steamcommunity.com
+steamcontent.com
+steamdeck.com
+steamgames.com
+steampowered.com
+steamserver.net
+steamstatic.com
+steamusercontent.com
+underlords.com
+valvesoftware.com
+full:steambroadcast.akamaized.net
+full:steamcdn-a.akamaihd.net
+full:steamcommunity-a.akamaihd.net
+full:steamstore-a.akamaihd.net
+full:steamusercontent-a.akamaihd.net
+full:steamuserimages-a.akamaihd.net
+full:steamvideo-a.akamaihd.net
+steampowered.com.8686c.com @cn
+steamstatic.com.8686c.com @cn
+steampipe.steamcontent.tnkjmec.com @cn
