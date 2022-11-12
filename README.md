@@ -25,16 +25,16 @@ items.json should contain all the item definitions for the game, default_items.j
 
 
 ## What's working ?
-  - Create Lobby
+ ~~- Create Lobby
   - Start Games using 1hAck.
   - Inventory
   - About
   - Options
   - Crafting
   - Custom Player Names
-  - Joinable Lobby over LAN
+  - Joinable Lobby over LAN~~
 
-...and much more!
+Everything! It now connects to real Steam Servers with your cheated inventory have fun! :D
 
 
 ## ToDo
